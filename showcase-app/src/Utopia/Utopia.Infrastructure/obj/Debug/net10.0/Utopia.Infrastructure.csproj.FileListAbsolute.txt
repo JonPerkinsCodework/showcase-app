@@ -1,0 +1,11 @@
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\bin\Debug\net10.0\Utopia.Infrastructure.deps.json
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\bin\Debug\net10.0\Utopia.Infrastructure.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\bin\Debug\net10.0\Utopia.Infrastructure.pdb
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\Utopia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\Utopia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\Utopia.Infrastructure.AssemblyInfo.cs
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\Utopia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\Utopia.Infrastructure.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\refint\Utopia.Infrastructure.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\Utopia.Infrastructure.pdb
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\ref\Utopia.Infrastructure.dll

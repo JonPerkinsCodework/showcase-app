@@ -1,0 +1,11 @@
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\bin\Debug\net10.0\Utopia.Domain.deps.json
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\bin\Debug\net10.0\Utopia.Domain.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\bin\Debug\net10.0\Utopia.Domain.pdb
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\Utopia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\Utopia.Domain.AssemblyInfoInputs.cache
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\Utopia.Domain.AssemblyInfo.cs
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\Utopia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\Utopia.Domain.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\refint\Utopia.Domain.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\Utopia.Domain.pdb
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\ref\Utopia.Domain.dll

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Utopia.Api/Utopia.Api.csproj" />
+  <Project Path="Utopia.AppHost/Utopia.AppHost.csproj" />
+  <Project Path="Utopia.Blazor/Utopia.Blazor.csproj" />
+  <Project Path="Utopia.Domain/Utopia.Domain.csproj" />
+  <Project Path="Utopia.Infrastructure/Utopia.Infrastructure.csproj" />
+  <Project Path="Utopia.Worker/Utopia.Worker.csproj" />
+</Solution>
