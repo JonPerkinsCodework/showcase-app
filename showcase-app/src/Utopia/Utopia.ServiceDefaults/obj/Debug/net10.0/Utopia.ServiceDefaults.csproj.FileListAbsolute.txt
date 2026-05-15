@@ -1,0 +1,13 @@
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\bin\Debug\net10.0\Utopia.ServiceDefaults.deps.json
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\bin\Debug\net10.0\Utopia.ServiceDefaults.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\bin\Debug\net10.0\Utopia.ServiceDefaults.pdb
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\Utopia.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\Utopia.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\Utopia.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\Utopia.ServiceDefaults.AssemblyInfo.cs
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\Utopia.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\Utopia.ServiceDefaults.sourcelink.json
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\Utopia.ServiceDefaults.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\refint\Utopia.ServiceDefaults.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\Utopia.ServiceDefaults.pdb
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.ServiceDefaults\obj\Debug\net10.0\ref\Utopia.ServiceDefaults.dll

@@ -1,8 +1,12 @@
 <Solution>
-  <Project Path="Utopia.Api/Utopia.Api.csproj" />
-  <Project Path="Utopia.AppHost/Utopia.AppHost.csproj" />
-  <Project Path="Utopia.Blazor/Utopia.Blazor.csproj" />
-  <Project Path="Utopia.Domain/Utopia.Domain.csproj" />
-  <Project Path="Utopia.Infrastructure/Utopia.Infrastructure.csproj" />
-  <Project Path="Utopia.Worker/Utopia.Worker.csproj" />
+  <Folder Name="/src/">
+    <Project Path="Utopia.Api/Utopia.Api.csproj" />
+    <Project Path="Utopia.AppHost/Utopia.AppHost.csproj" />
+    <Project Path="Utopia.Blazor/Utopia.Blazor.csproj" />
+    <Project Path="Utopia.Domain/Utopia.Domain.csproj" />
+    <Project Path="Utopia.Infrastructure/Utopia.Infrastructure.csproj" />
+    <Project Path="Utopia.ServiceDefaults/Utopia.ServiceDefaults.csproj" Id="b01d2fa1-6fe4-438d-9fd8-12455d512359" />
+    <Project Path="Utopia.Worker/Utopia.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
 </Solution>

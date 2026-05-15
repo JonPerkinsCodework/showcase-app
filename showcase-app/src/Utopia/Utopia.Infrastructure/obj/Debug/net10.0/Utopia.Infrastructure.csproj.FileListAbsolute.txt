@@ -9,3 +9,4 @@ C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructu
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\refint\Utopia.Infrastructure.dll
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\Utopia.Infrastructure.pdb
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\ref\Utopia.Infrastructure.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Infrastructure\obj\Debug\net10.0\Utopia.Infrastructure.sourcelink.json

@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8C05A20F-73FD-4990-AF06-1B37FE65866D}|Utopia.Infrastructure\\Utopia.Infrastructure.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C05A20F-73FD-4990-AF06-1B37FE65866D}|Utopia.Infrastructure\\Utopia.Infrastructure.csproj|solutionrelative:utopia.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D601403-E5D5-49DF-A2F1-D9F3B305A10A}|Utopia.Domain\\Utopia.Domain.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D601403-E5D5-49DF-A2F1-D9F3B305A10A}|Utopia.Domain\\Utopia.Domain.csproj|solutionrelative:utopia.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Utopia.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Utopia.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T17:08:48.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Utopia.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Class1.cs",
-              "RelativeToolTip": "Utopia.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T17:05:51.314Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

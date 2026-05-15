@@ -8,4 +8,10 @@
     <UserSecretsId>2dacafde-dfd7-43a3-ae79-9c3984044f4a</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Utopia.Api\Utopia.Api.csproj" />
+    <ProjectReference Include="..\Utopia.Blazor\Utopia.Blazor.csproj" />
+    <ProjectReference Include="..\Utopia.Worker\Utopia.Worker.csproj" />
+  </ItemGroup>
+
 </Project>

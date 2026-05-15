@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Utopia.Blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2e4f5cd15c9b93c47177cefe2580e58d386815b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1d70710e0a5c83afce717ba27bf66b467a66894")]
 [assembly: System.Reflection.AssemblyProductAttribute("Utopia.Blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Utopia.Blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
