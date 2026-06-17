@@ -7,8 +7,39 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Utopia.Domain/1.0.0": {
+        "dependencies": {
+          "MessagePack": "2.5.302"
+        },
         "runtime": {
           "Utopia.Domain.dll": {}
+        }
+      },
+      "MessagePack/2.5.302": {
+        "dependencies": {
+          "MessagePack.Annotations": "2.5.302",
+          "Microsoft.NET.StringTools": "17.6.3"
+        },
+        "runtime": {
+          "lib/net6.0/MessagePack.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.302.46609"
+          }
+        }
+      },
+      "MessagePack.Annotations/2.5.302": {
+        "runtime": {
+          "lib/netstandard2.0/MessagePack.Annotations.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.302.46609"
+          }
+        }
+      },
+      "Microsoft.NET.StringTools/17.6.3": {
+        "runtime": {
+          "lib/net7.0/Microsoft.NET.StringTools.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "17.6.3.22601"
+          }
         }
       }
     }
@@ -18,6 +49,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MessagePack/2.5.302": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5DZsKli4dMEpm/glcMAheuO8/IesfaTskbfsuvgnQwWFKS5FN7Z6yNx+5F+UW94E+9N2qt8Zs63/XVzpLsElgA==",
+      "path": "messagepack/2.5.302",
+      "hashPath": "messagepack.2.5.302.nupkg.sha512"
+    },
+    "MessagePack.Annotations/2.5.302": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PTHQHbMJzx1VtUUCpnvPavD7o5X9s2dAJ4uQHAP2kBCwJKICpPTZq0qxzbB4/6iJJiIxem8zlxyfldGAx1SjSQ==",
+      "path": "messagepack.annotations/2.5.302",
+      "hashPath": "messagepack.annotations.2.5.302.nupkg.sha512"
+    },
+    "Microsoft.NET.StringTools/17.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N0ZIanl1QCgvUumEL1laasU0a7sOE5ZwLZVTn0pAePnfhq8P7SvTjF8Axq+CnavuQkmdQpGNXQ1efZtu5kDFbA==",
+      "path": "microsoft.net.stringtools/17.6.3",
+      "hashPath": "microsoft.net.stringtools.17.6.3.nupkg.sha512"
     }
   }
 }

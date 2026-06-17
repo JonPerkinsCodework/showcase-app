@@ -41,3 +41,6 @@ C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Worker\obj\D
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Worker\obj\Debug\net10.0\Utopia.Worker.pdb
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Worker\obj\Debug\net10.0\Utopia.Worker.genruntimeconfig.cache
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Worker\obj\Debug\net10.0\ref\Utopia.Worker.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Worker\bin\Debug\net10.0\MessagePack.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Worker\bin\Debug\net10.0\MessagePack.Annotations.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Worker\bin\Debug\net10.0\Microsoft.NET.StringTools.dll

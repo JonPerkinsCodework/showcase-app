@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "md3dMVD5AbE=",
+  "dgSpecHash": "AkMMAtpF8P8=",
   "success": true,
   "projectFilePath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\codew\\.nuget\\packages\\messagepack\\2.5.302\\messagepack.2.5.302.nupkg.sha512",
+    "C:\\Users\\codew\\.nuget\\packages\\messagepack.annotations\\2.5.302\\messagepack.annotations.2.5.302.nupkg.sha512",
+    "C:\\Users\\codew\\.nuget\\packages\\microsoft.net.stringtools\\17.6.3\\microsoft.net.stringtools.17.6.3.nupkg.sha512"
+  ],
   "logs": []
 }

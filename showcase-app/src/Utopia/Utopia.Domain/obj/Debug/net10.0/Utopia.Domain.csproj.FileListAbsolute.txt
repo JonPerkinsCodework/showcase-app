@@ -10,3 +10,4 @@ C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\D
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\refint\Utopia.Domain.dll
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\Utopia.Domain.pdb
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\ref\Utopia.Domain.dll
+C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Domain\obj\Debug\net10.0\Utopia.Domain.csproj.AssemblyReference.cache

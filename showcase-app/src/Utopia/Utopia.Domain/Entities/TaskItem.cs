@@ -1,6 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Utopia.Domain.Enums;
+using TaskStatus = Utopia.Domain.Enums.TaskStatus;
 
 namespace Utopia.Domain.Entities
 {

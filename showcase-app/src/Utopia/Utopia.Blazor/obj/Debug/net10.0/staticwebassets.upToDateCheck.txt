@@ -1,5 +1,5 @@
-C:\Users\codew\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.8\build\..\_framework\blazor.server.js
-C:\Users\codew\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.8\build\..\_framework\blazor.web.js
+C:\Users\codew\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.9\build\..\_framework\blazor.server.js
+C:\Users\codew\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.9\build\..\_framework\blazor.web.js
 Components\Layout\ReconnectModal.razor.js
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
@@ -10,11 +10,11 @@ C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwro
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-C:\Users\codew\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.8\_framework\blazor.web.js
+C:\Users\codew\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.9\_framework\blazor.web.js
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-C:\Users\codew\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.8\_framework\blazor.server.js
+C:\Users\codew\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.9\_framework\blazor.server.js
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\codew\Projects\showcase-app\showcase-app\src\Utopia\Utopia.Blazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
