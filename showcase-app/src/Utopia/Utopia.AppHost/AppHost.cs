@@ -4,6 +4,7 @@ var builder = DistributedApplication.CreateBuilder(args);
 
 var sql = builder.AddSqlServer("sql")
                  .WithDataVolume()
+                 .WithEndpoint("tcp", e => e.Port = 1433)
                  .AddDatabase("UtopiaDb");
 
 var api = builder.AddProject<Projects.Utopia_Api>("api")

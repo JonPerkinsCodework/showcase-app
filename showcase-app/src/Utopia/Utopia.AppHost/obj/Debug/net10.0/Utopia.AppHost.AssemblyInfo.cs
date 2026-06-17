@@ -24,7 +24,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Utopia.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed6fd0370854561cfbadae49a4e3f6b027e7f952")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8071c920509b276a01a5cb13ed6b3a7b88b4ea39")]
 [assembly: System.Reflection.AssemblyProductAttribute("Utopia.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Utopia.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
