@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v10.0": {
       "Utopia.AppHost/1.0.0": {
         "dependencies": {
-          "Aspire.Hosting.AppHost": "13.4.5",
-          "Aspire.Hosting.SqlServer": "13.4.5",
+          "Aspire.Hosting.AppHost": "13.4.6",
+          "Aspire.Hosting.SqlServer": "13.4.6",
           "MessagePack": "2.5.302",
           "Microsoft.Data.SqlClient": "7.0.1"
         },
@@ -17,7 +17,7 @@
           "Utopia.AppHost.dll": {}
         }
       },
-      "Aspire.Hosting/13.4.5": {
+      "Aspire.Hosting/13.4.6": {
         "dependencies": {
           "AspNetCore.HealthChecks.Uris": "9.0.0",
           "Google.Protobuf": "3.34.1",
@@ -37,8 +37,8 @@
         },
         "runtime": {
           "lib/net8.0/Aspire.Hosting.dll": {
-            "assemblyVersion": "13.4.5.0",
-            "fileVersion": "13.400.526.31612"
+            "assemblyVersion": "13.4.6.0",
+            "fileVersion": "13.400.626.31906"
           }
         },
         "resources": {
@@ -83,10 +83,10 @@
           }
         }
       },
-      "Aspire.Hosting.AppHost/13.4.5": {
+      "Aspire.Hosting.AppHost/13.4.6": {
         "dependencies": {
           "AspNetCore.HealthChecks.Uris": "9.0.0",
-          "Aspire.Hosting": "13.4.5",
+          "Aspire.Hosting": "13.4.6",
           "Google.Protobuf": "3.34.1",
           "Grpc.AspNetCore": "2.80.0",
           "Grpc.Net.ClientFactory": "2.80.0",
@@ -104,16 +104,16 @@
         },
         "runtime": {
           "lib/net10.0/Aspire.Hosting.AppHost.dll": {
-            "assemblyVersion": "13.4.5.0",
-            "fileVersion": "13.400.526.31612"
+            "assemblyVersion": "13.4.6.0",
+            "fileVersion": "13.400.626.31906"
           }
         }
       },
-      "Aspire.Hosting.SqlServer/13.4.5": {
+      "Aspire.Hosting.SqlServer/13.4.6": {
         "dependencies": {
           "AspNetCore.HealthChecks.SqlServer": "9.0.0",
           "AspNetCore.HealthChecks.Uris": "9.0.0",
-          "Aspire.Hosting": "13.4.5",
+          "Aspire.Hosting": "13.4.6",
           "Google.Protobuf": "3.34.1",
           "Grpc.AspNetCore": "2.80.0",
           "Grpc.Net.ClientFactory": "2.80.0",
@@ -132,8 +132,8 @@
         },
         "runtime": {
           "lib/net10.0/Aspire.Hosting.SqlServer.dll": {
-            "assemblyVersion": "13.4.5.0",
-            "fileVersion": "13.400.526.31612"
+            "assemblyVersion": "13.4.6.0",
+            "fileVersion": "13.400.626.31906"
           }
         }
       },
@@ -864,26 +864,26 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Aspire.Hosting/13.4.5": {
+    "Aspire.Hosting/13.4.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-goX7ggX+sRFjKs6NnjHzq0vrFFzpOh+D4yNP5O3MG6FYM5gOn45unaM0GB/5YHwZAMkhPkV03rHBP+QeVxNpjQ==",
-      "path": "aspire.hosting/13.4.5",
-      "hashPath": "aspire.hosting.13.4.5.nupkg.sha512"
+      "sha512": "sha512-YJEvsrgcVLPQ88aJ3aFMIEJue0ZFmyH8RfyQu0PnHdZzjBAiK0c8BaYUAycWu35QpTe4hHxEYaY0wW4gpy/kwg==",
+      "path": "aspire.hosting/13.4.6",
+      "hashPath": "aspire.hosting.13.4.6.nupkg.sha512"
     },
-    "Aspire.Hosting.AppHost/13.4.5": {
+    "Aspire.Hosting.AppHost/13.4.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-aCeudJkJNBerBU+JRNWD7DSmCigP24IH3L/nNqf5q9zJ9+47P22RFAbzVu402xBGrMCbu92gjwjk/1AvSP7i8Q==",
-      "path": "aspire.hosting.apphost/13.4.5",
-      "hashPath": "aspire.hosting.apphost.13.4.5.nupkg.sha512"
+      "sha512": "sha512-+4BxGpb2JQDk3+uOmk5eDpK0Brg2d3hwqrK/7d/aDBAUoHYbjfwbItIfdYJjKjbxUkBiaotokcWdVbLNsMo9Nw==",
+      "path": "aspire.hosting.apphost/13.4.6",
+      "hashPath": "aspire.hosting.apphost.13.4.6.nupkg.sha512"
     },
-    "Aspire.Hosting.SqlServer/13.4.5": {
+    "Aspire.Hosting.SqlServer/13.4.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-i6BDNYbMpqS6aGF+vWrVWEf0r+e1oScHBMdS31Oh0P474gF+rnwA5FonfwR9GimMTIzVY23++ulTOjM4baIEnQ==",
-      "path": "aspire.hosting.sqlserver/13.4.5",
-      "hashPath": "aspire.hosting.sqlserver.13.4.5.nupkg.sha512"
+      "sha512": "sha512-SUe4wi2r7q8zjn/39iu1MashF1KRcBkt//pZdA/T6N9ziACeTgw2AkxX3c31TYnsoy3ksNf+Rlg+QMnLZ/PblQ==",
+      "path": "aspire.hosting.sqlserver/13.4.6",
+      "hashPath": "aspire.hosting.sqlserver.13.4.6.nupkg.sha512"
     },
     "AspNetCore.HealthChecks.SqlServer/9.0.0": {
       "type": "package",

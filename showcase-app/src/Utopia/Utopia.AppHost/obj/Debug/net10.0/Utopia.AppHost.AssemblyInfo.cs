@@ -12,19 +12,19 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("2dacafde-dfd7-43a3-ae79-9c3984044f4a")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\codew\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.4.5\\tools\\" +
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\codew\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.4.6\\tools\\" +
     "dcp.exe")]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\codew\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.4.5\\tools\\" +
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\codew\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.4.6\\tools\\" +
     "ext\\")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "Utopia.AppHost.csproj")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\codew\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.4.5\\tools\\Aspire.D" +
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\codew\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.4.6\\tools\\Aspire.D" +
     "ashboard.exe")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.AppHost\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Utopia.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8071c920509b276a01a5cb13ed6b3a7b88b4ea39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6389fe9ba2d128908725b3b04dbae6d059e19d57")]
 [assembly: System.Reflection.AssemblyProductAttribute("Utopia.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Utopia.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,7 +2,7 @@
   "version": 4,
   "targets": {
     "net10.0": {
-      "Aspire.Dashboard.Sdk.win-x64/13.4.5": {
+      "Aspire.Dashboard.Sdk.win-x64/13.4.6": {
         "type": "package",
         "build": {
           "buildTransitive/Aspire.Dashboard.Sdk.win-x64.props": {},
@@ -13,7 +13,7 @@
           "buildMultiTargeting/Aspire.Dashboard.Sdk.win-x64.targets": {}
         }
       },
-      "Aspire.Hosting/13.4.5": {
+      "Aspire.Hosting/13.4.6": {
         "type": "package",
         "dependencies": {
           "AspNetCore.HealthChecks.Uris": "9.0.0",
@@ -99,11 +99,11 @@
           "buildTransitive/net8.0/Aspire.Hosting.targets": {}
         }
       },
-      "Aspire.Hosting.AppHost/13.4.5": {
+      "Aspire.Hosting.AppHost/13.4.6": {
         "type": "package",
         "dependencies": {
           "AspNetCore.HealthChecks.Uris": "9.0.0",
-          "Aspire.Hosting": "13.4.5",
+          "Aspire.Hosting": "13.4.6",
           "Google.Protobuf": "3.34.1",
           "Grpc.AspNetCore": "2.80.0",
           "Grpc.Net.ClientFactory": "2.80.0",
@@ -151,7 +151,7 @@
           "buildMultiTargeting/Aspire.Hosting.AppHost.targets": {}
         }
       },
-      "Aspire.Hosting.Orchestration.win-x64/13.4.5": {
+      "Aspire.Hosting.Orchestration.win-x64/13.4.6": {
         "type": "package",
         "build": {
           "buildTransitive/Aspire.Hosting.Orchestration.win-x64.targets": {}
@@ -160,12 +160,12 @@
           "buildMultiTargeting/Aspire.Hosting.Orchestration.win-x64.targets": {}
         }
       },
-      "Aspire.Hosting.SqlServer/13.4.5": {
+      "Aspire.Hosting.SqlServer/13.4.6": {
         "type": "package",
         "dependencies": {
           "AspNetCore.HealthChecks.SqlServer": "9.0.0",
           "AspNetCore.HealthChecks.Uris": "9.0.0",
-          "Aspire.Hosting": "13.4.5",
+          "Aspire.Hosting": "13.4.6",
           "Google.Protobuf": "3.34.1",
           "Grpc.AspNetCore": "2.80.0",
           "Grpc.Net.ClientFactory": "2.80.0",
@@ -1961,17 +1961,17 @@
     }
   },
   "libraries": {
-    "Aspire.Dashboard.Sdk.win-x64/13.4.5": {
-      "sha512": "7P5SukQWJxxC12xmi+ZjiAC2nl2l8nRoyBjx7qMkZFCv90fDUbVwBabUcP2Iw8YSbXjXZCw0inrTma1lWIpoHA==",
+    "Aspire.Dashboard.Sdk.win-x64/13.4.6": {
+      "sha512": "IoN5kv4uMniYyETegmD3/5lW2TpsA4RXRZfgIEAD7gN93P92hhkUiqa+0DC2GrJLD3Voz1/Drmpnq/pQ5WzBow==",
       "type": "package",
-      "path": "aspire.dashboard.sdk.win-x64/13.4.5",
+      "path": "aspire.dashboard.sdk.win-x64/13.4.6",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "THIRD-PARTY-NOTICES.TXT",
-        "aspire.dashboard.sdk.win-x64.13.4.5.nupkg.sha512",
+        "aspire.dashboard.sdk.win-x64.13.4.6.nupkg.sha512",
         "aspire.dashboard.sdk.win-x64.nuspec",
         "build/Aspire.Dashboard.Sdk.win-x64.props",
         "build/Aspire.Dashboard.Sdk.win-x64.targets",
@@ -2113,17 +2113,17 @@
         "tools/zh-Hant/Aspire.Dashboard.resources.dll"
       ]
     },
-    "Aspire.Hosting/13.4.5": {
-      "sha512": "goX7ggX+sRFjKs6NnjHzq0vrFFzpOh+D4yNP5O3MG6FYM5gOn45unaM0GB/5YHwZAMkhPkV03rHBP+QeVxNpjQ==",
+    "Aspire.Hosting/13.4.6": {
+      "sha512": "YJEvsrgcVLPQ88aJ3aFMIEJue0ZFmyH8RfyQu0PnHdZzjBAiK0c8BaYUAycWu35QpTe4hHxEYaY0wW4gpy/kwg==",
       "type": "package",
-      "path": "aspire.hosting/13.4.5",
+      "path": "aspire.hosting/13.4.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "README.md",
         "THIRD-PARTY-NOTICES.TXT",
-        "aspire.hosting.13.4.5.nupkg.sha512",
+        "aspire.hosting.13.4.6.nupkg.sha512",
         "aspire.hosting.nuspec",
         "buildTransitive/net8.0/Aspire.Hosting.Integration.Analyzers.dll",
         "buildTransitive/net8.0/Aspire.Hosting.targets",
@@ -2144,10 +2144,10 @@
         "lib/net8.0/zh-Hant/Aspire.Hosting.resources.dll"
       ]
     },
-    "Aspire.Hosting.AppHost/13.4.5": {
-      "sha512": "aCeudJkJNBerBU+JRNWD7DSmCigP24IH3L/nNqf5q9zJ9+47P22RFAbzVu402xBGrMCbu92gjwjk/1AvSP7i8Q==",
+    "Aspire.Hosting.AppHost/13.4.6": {
+      "sha512": "+4BxGpb2JQDk3+uOmk5eDpK0Brg2d3hwqrK/7d/aDBAUoHYbjfwbItIfdYJjKjbxUkBiaotokcWdVbLNsMo9Nw==",
       "type": "package",
-      "path": "aspire.hosting.apphost/13.4.5",
+      "path": "aspire.hosting.apphost/13.4.6",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -2157,7 +2157,7 @@
         "README.md",
         "THIRD-PARTY-NOTICES.TXT",
         "analyzers/dotnet/cs/Aspire.Hosting.Analyzers.dll",
-        "aspire.hosting.apphost.13.4.5.nupkg.sha512",
+        "aspire.hosting.apphost.13.4.6.nupkg.sha512",
         "aspire.hosting.apphost.nuspec",
         "build/Aspire.Hosting.AppHost.props",
         "build/Aspire.Hosting.AppHost.targets",
@@ -2173,17 +2173,17 @@
         "tools/net8.0/Aspire.Hosting.Tasks.dll"
       ]
     },
-    "Aspire.Hosting.Orchestration.win-x64/13.4.5": {
-      "sha512": "TkgGfqKmxQw7U38C3UQGKGqfZUGL7xnvAXCxBSMP1WnCnVDVYli9bMxUNbIn3cqrZOZ1V38UalnETz2csk3JVQ==",
+    "Aspire.Hosting.Orchestration.win-x64/13.4.6": {
+      "sha512": "TjpiZb4VAr7w/ViDq08kX2lXVo5eSDaQpGaLFMRas/0Q2jmuVOWoYFidmuXMbTf2InXVJO0pVjtwhJI2nNXihw==",
       "type": "package",
-      "path": "aspire.hosting.orchestration.win-x64/13.4.5",
+      "path": "aspire.hosting.orchestration.win-x64/13.4.6",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "THIRD-PARTY-NOTICES.TXT",
-        "aspire.hosting.orchestration.win-x64.13.4.5.nupkg.sha512",
+        "aspire.hosting.orchestration.win-x64.13.4.6.nupkg.sha512",
         "aspire.hosting.orchestration.win-x64.nuspec",
         "build/Aspire.Hosting.Orchestration.win-x64.targets",
         "buildMultiTargeting/Aspire.Hosting.Orchestration.win-x64.targets",
@@ -2201,17 +2201,17 @@
         "tools/dcptun_c"
       ]
     },
-    "Aspire.Hosting.SqlServer/13.4.5": {
-      "sha512": "i6BDNYbMpqS6aGF+vWrVWEf0r+e1oScHBMdS31Oh0P474gF+rnwA5FonfwR9GimMTIzVY23++ulTOjM4baIEnQ==",
+    "Aspire.Hosting.SqlServer/13.4.6": {
+      "sha512": "SUe4wi2r7q8zjn/39iu1MashF1KRcBkt//pZdA/T6N9ziACeTgw2AkxX3c31TYnsoy3ksNf+Rlg+QMnLZ/PblQ==",
       "type": "package",
-      "path": "aspire.hosting.sqlserver/13.4.5",
+      "path": "aspire.hosting.sqlserver/13.4.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "README.md",
         "THIRD-PARTY-NOTICES.TXT",
-        "aspire.hosting.sqlserver.13.4.5.nupkg.sha512",
+        "aspire.hosting.sqlserver.13.4.6.nupkg.sha512",
         "aspire.hosting.sqlserver.nuspec",
         "lib/net10.0/Aspire.Hosting.SqlServer.dll",
         "lib/net10.0/Aspire.Hosting.SqlServer.xml",
@@ -4770,10 +4770,10 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Aspire.Dashboard.Sdk.win-x64 >= 13.4.5",
-      "Aspire.Hosting.AppHost >= 13.4.5",
-      "Aspire.Hosting.Orchestration.win-x64 >= 13.4.5",
-      "Aspire.Hosting.SqlServer >= 13.4.5",
+      "Aspire.Dashboard.Sdk.win-x64 >= 13.4.6",
+      "Aspire.Hosting.AppHost >= 13.4.6",
+      "Aspire.Hosting.Orchestration.win-x64 >= 13.4.6",
+      "Aspire.Hosting.SqlServer >= 13.4.6",
       "MessagePack >= 2.5.302",
       "Microsoft.Data.SqlClient >= 7.0.1"
     ]
@@ -4795,6 +4795,7 @@
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+        "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\NuGet.Config",
         "C:\\Users\\codew\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -4803,7 +4804,6 @@
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -4833,22 +4833,22 @@
         "dependencies": {
           "Aspire.Dashboard.Sdk.win-x64": {
             "target": "Package",
-            "version": "[13.4.5, )",
+            "version": "[13.4.6, )",
             "autoReferenced": true
           },
           "Aspire.Hosting.AppHost": {
             "target": "Package",
-            "version": "[13.4.5, )",
+            "version": "[13.4.6, )",
             "autoReferenced": true
           },
           "Aspire.Hosting.Orchestration.win-x64": {
             "target": "Package",
-            "version": "[13.4.5, )",
+            "version": "[13.4.6, )",
             "autoReferenced": true
           },
           "Aspire.Hosting.SqlServer": {
             "target": "Package",
-            "version": "[13.4.5, )"
+            "version": "[13.4.6, )"
           },
           "MessagePack": {
             "target": "Package",

@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Utopia.Domain.Entities;
+using Utopia.Infrastructure.Persistence.Configurations;
 
 namespace Utopia.Infrastructure.Data
 {
@@ -12,7 +13,11 @@ namespace Utopia.Infrastructure.Data
         }
 
         public DbSet<Project> Projects => Set<Project>();
+        
         public DbSet<TaskItem> Tasks => Set<TaskItem>();
+        
+        public DbSet<Client> Clients => Set<Client>();
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -33,6 +38,9 @@ namespace Utopia.Infrastructure.Data
                       .WithMany(p => p.Tasks)
                       .HasForeignKey(t => t.ProjectId);
             });
+
+            modelBuilder.ApplyConfiguration(new ClientConfiguration());
+
         }
     }
 }

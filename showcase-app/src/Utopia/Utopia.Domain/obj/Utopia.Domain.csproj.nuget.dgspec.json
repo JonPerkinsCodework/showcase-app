@@ -1,22 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj": {}
+    "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj": {
+    "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj",
         "projectName": "Utopia.Domain",
-        "projectPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj",
+        "projectPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj",
         "packagesPath": "C:\\Users\\codew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\obj\\",
+        "outputPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\NuGet.Config",
           "C:\\Users\\codew\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -25,7 +26,6 @@
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

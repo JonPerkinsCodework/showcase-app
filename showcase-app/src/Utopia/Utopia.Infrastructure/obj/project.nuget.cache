@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nHr6TMioQXI=",
+  "dgSpecHash": "rD9KXB9vySY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\codew\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\codew\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

@@ -3756,16 +3756,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj",
       "projectName": "Utopia.Infrastructure",
-      "projectPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\codew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+        "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\NuGet.Config",
         "C:\\Users\\codew\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -3774,7 +3775,6 @@
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -3783,8 +3783,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj": {
-              "projectPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj"
+            "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj": {
+              "projectPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj"
             }
           }
         }

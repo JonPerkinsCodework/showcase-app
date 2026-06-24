@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Utopia.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8071c920509b276a01a5cb13ed6b3a7b88b4ea39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6389fe9ba2d128908725b3b04dbae6d059e19d57")]
 [assembly: System.Reflection.AssemblyProductAttribute("Utopia.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Utopia.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
