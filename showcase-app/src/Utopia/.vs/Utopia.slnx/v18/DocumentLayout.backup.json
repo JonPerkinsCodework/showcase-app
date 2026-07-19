@@ -11,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|solutionrelative:utopia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|solutionrelative:utopia.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3779F3E3-FE26-06CA-16A3-8C5A5C1BAA5C}|Utopia.Infrastructure\\Utopia.Infrastructure.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.infrastructure\\data\\utopiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3779F3E3-FE26-06CA-16A3-8C5A5C1BAA5C}|Utopia.Infrastructure\\Utopia.Infrastructure.csproj|solutionrelative:utopia.infrastructure\\data\\utopiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.api\\utopia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|solutionrelative:utopia.api\\utopia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA49458-A7E6-445D-EA7B-C7B324245435}|Utopia.Domain\\Utopia.Domain.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA49458-A7E6-445D-EA7B-C7B324245435}|Utopia.Domain\\Utopia.Domain.csproj|solutionrelative:utopia.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.api\\models\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|solutionrelative:utopia.api\\models\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|solutionrelative:utopia.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.api\\models\\clientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.api\\models\\clientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|solutionrelative:utopia.api\\models\\clientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.api\\utopia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3CF146D1-AA08-8B34-ED98-58979EF515BB}|Utopia.Api\\Utopia.Api.csproj|solutionrelative:utopia.api\\utopia.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{723FCF60-F3E1-8E2B-BB19-319B79C888DF}|Utopia.AppHost\\Utopia.AppHost.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.apphost\\utopia.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABA49458-A7E6-445D-EA7B-C7B324245435}|Utopia.Domain\\Utopia.Domain.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA49458-A7E6-445D-EA7B-C7B324245435}|Utopia.Domain\\Utopia.Domain.csproj|solutionrelative:utopia.domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABA49458-A7E6-445D-EA7B-C7B324245435}|Utopia.Domain\\Utopia.Domain.csproj|c:\\users\\codew\\projects\\showcase-app\\showcase-app\\src\\utopia\\utopia.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABA49458-A7E6-445D-EA7B-C7B324245435}|Utopia.Domain\\Utopia.Domain.csproj|solutionrelative:utopia.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UtopiaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Data\\UtopiaDbContext.cs",
+              "RelativeDocumentMoniker": "Utopia.Infrastructure\\Data\\UtopiaDbContext.cs",
+              "ToolTip": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Data\\UtopiaDbContext.cs",
+              "RelativeToolTip": "Utopia.Infrastructure\\Data\\UtopiaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T17:46:05.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ClientController.cs",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "Utopia.Api\\Controllers\\ClientController.cs",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ClientDto.cs",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Models\\ClientDto.cs",
               "RelativeDocumentMoniker": "Utopia.Api\\Models\\ClientDto.cs",
@@ -78,11 +95,12 @@
               "RelativeToolTip": "Utopia.Api\\Models\\ClientDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T10:17:16.831Z"
+              "WhenOpened": "2026-06-25T10:17:16.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ClientUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Models\\ClientUpdateDto.cs",
               "RelativeDocumentMoniker": "Utopia.Api\\Models\\ClientUpdateDto.cs",
@@ -94,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ClientCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Models\\ClientCreateDto.cs",
               "RelativeDocumentMoniker": "Utopia.Api\\Models\\ClientCreateDto.cs",
@@ -106,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Utopia.Api.csproj",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Utopia.Api.csproj",
               "RelativeDocumentMoniker": "Utopia.Api\\Utopia.Api.csproj",
@@ -114,11 +132,12 @@
               "RelativeToolTip": "Utopia.Api\\Utopia.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-25T09:56:26.462Z"
+              "WhenOpened": "2026-06-25T09:56:26.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "Utopia.Domain\\Entities\\Client.cs",
@@ -126,7 +145,8 @@
               "RelativeToolTip": "Utopia.Domain\\Entities\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T17:03:13.215Z"
+              "WhenOpened": "2026-06-24T17:03:13.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -143,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Utopia.AppHost.csproj",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.AppHost\\Utopia.AppHost.csproj",
               "RelativeDocumentMoniker": "Utopia.AppHost\\Utopia.AppHost.csproj",
@@ -155,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TaskStatus.cs",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Enums\\TaskStatus.cs",
               "RelativeDocumentMoniker": "Utopia.Domain\\Enums\\TaskStatus.cs",
@@ -180,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CreateTaskRequest.cs",
               "DocumentMoniker": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Requests\\CreateTaskRequest.cs",
               "RelativeDocumentMoniker": "Utopia.Api\\Requests\\CreateTaskRequest.cs",
