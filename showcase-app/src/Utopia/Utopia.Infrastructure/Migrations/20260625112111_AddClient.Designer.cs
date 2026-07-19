@@ -12,7 +12,7 @@ using Utopia.Infrastructure.Data;
 namespace Utopia.Infrastructure.Migrations
 {
     [DbContext(typeof(UtopiaDbContext))]
-    [Migration("20260624172244_AddClient")]
+    [Migration("20260625112111_AddClient")]
     partial class AddClient
     {
         /// <inheritdoc />

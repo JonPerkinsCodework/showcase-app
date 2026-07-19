@@ -16,12 +16,12 @@ builder.Services.AddOpenApi();
 // 1. Register services here (DbContext, logging, etc.)
 builder.Services.AddDbContext<UtopiaDbContext>(options =>
 {
-    var cs = builder.Configuration.GetConnectionString("UtopiaDb");
+    var cs = builder.Configuration.GetConnectionString("sql");
 
     // Fallback for EF Core design-time tools
     if (string.IsNullOrWhiteSpace(cs))
     {
-        cs = "Server=(localdb)\\MSSQLLocalDB;Database=Utopia;Trusted_Connection=True;";
+        cs = "Server=127.0.0.1,1433;User ID=sa;Password=pHr6V}TGyWTK_6BZaAd8(e;TrustServerCertificate=true";
     }
 
     options.UseSqlServer(cs);

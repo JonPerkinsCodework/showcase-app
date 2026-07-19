@@ -4657,17 +4657,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Utopia.Api.csproj",
+      "projectUniqueName": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Utopia.Api.csproj",
       "projectName": "Utopia.Api",
-      "projectPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Utopia.Api.csproj",
+      "projectPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\Utopia.Api.csproj",
       "packagesPath": "C:\\Users\\codew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\obj\\",
+      "outputPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\NuGet.Config",
+        "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\NuGet.Config",
         "C:\\Users\\codew\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -4684,11 +4684,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj"
+            "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Infrastructure\\Utopia.Infrastructure.csproj"
             },
-            "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.ServiceDefaults\\Utopia.ServiceDefaults.csproj": {
-              "projectPath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.ServiceDefaults\\Utopia.ServiceDefaults.csproj"
+            "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.ServiceDefaults\\Utopia.ServiceDefaults.csproj": {
+              "projectPath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.ServiceDefaults\\Utopia.ServiceDefaults.csproj"
             }
           }
         }
@@ -4756,7 +4756,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

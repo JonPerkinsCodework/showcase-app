@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hl32rQBAYhA=",
+  "dgSpecHash": "MXSR5U8LSwU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\codew\\projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj",
+  "projectFilePath": "C:\\Users\\codew\\Projects\\showcase-app\\showcase-app\\src\\Utopia\\Utopia.Domain\\Utopia.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\codew\\.nuget\\packages\\messagepack\\2.5.302\\messagepack.2.5.302.nupkg.sha512",
     "C:\\Users\\codew\\.nuget\\packages\\messagepack.annotations\\2.5.302\\messagepack.annotations.2.5.302.nupkg.sha512",
